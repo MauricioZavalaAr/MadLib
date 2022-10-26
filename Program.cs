@@ -5,6 +5,8 @@
 // Story, with 10 different variables and a loop. 
  // You can add multiple dates with description.
 // Person who Peer Reviewed your assignment: Patrick De Leon
+//Peer reviewed: Val
+//Comment: Runs great!
 
 // You will be creating your own unique mad lib generator in a console project.
 // Your console application needs to have the following:
